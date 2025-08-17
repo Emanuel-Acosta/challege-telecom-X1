@@ -47,6 +47,3 @@ El análisis está diseñado para ejecutarse en un entorno de Jupyter Notebook. 
 Emanuel Acosta  
 Ciencia de Datos | ONE + Alura LATAM
 
-
-Para dudas, sugerencias o colaboraciones, contactar a:  
-emacosta@example.com  (reemplazar con tu email real)
